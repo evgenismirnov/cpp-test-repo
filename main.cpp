@@ -1,4 +1,6 @@
 #include <iostream>
 
-int main() {
+int main(void) 
+{
     std::cout << "Hello, Git!" << std::endl;
+}
